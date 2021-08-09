@@ -15,5 +15,12 @@
       </main>
     </div>
   {% include google-analytics.html %}
+  {% if page.layout == 'default' %}
+    {% include main_map.html %}
+  {% endif %}
+  {% if page.layout == 'post' %}
+    {% include post_map.html %}
+  {% endif %}
+  {% include scripts.html %}
   </body>
 </html>
