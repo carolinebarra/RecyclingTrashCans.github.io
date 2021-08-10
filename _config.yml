@@ -8,6 +8,7 @@ copyright: '&copy; 2021 Csaba Toth'
 
 # Links
 fresnostategeology: "https://www.fresnostate.edu/csm/ees/"
+source_repo: "https://github.com/RecyclingTrashCans/RecyclingTrashCans.github.io/"
 
 # Build settings
 markdown: kramdown
