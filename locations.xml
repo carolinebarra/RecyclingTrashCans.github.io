@@ -1,0 +1,11 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="locations">
+    {% for post in site.posts %}
+      <item>{{ post.lat }},{{ post.lon }},{{ post.elevation }}</item>
+    {% endfor %}
+  </string-array>
+</resources>
