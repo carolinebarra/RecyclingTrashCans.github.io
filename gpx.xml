@@ -10,12 +10,12 @@ layout: null
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
   <metadata>
     <link href="{{ site.url }}{{ site.baseurl }}/">
-      <text>Fresno State Recycling Trahscans</text>
+      <text>{{ site.title }}</text>
     </link>
     <time>2022-05-21T12:34:43-07:00</time>
   </metadata>
   <trk>
-    <name>Fresno State Recycling Trahscans</name>
+    <name>{{ site.title }}</name>
     <trkseg>
       {% for post in site.posts %}
         <trkpt lat="{{ post.lat }}" lon="{{ post.lon }}">
