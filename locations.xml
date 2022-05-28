@@ -5,7 +5,7 @@ layout: null
 <resources>
   <string-array name="locations">
     {% for post in site.posts %}
-      <item>{{ post.lat }},{{ post.lon }},{{ post.elevation }}</item>
+      <item>{{ post.lat }},{{ post.lon }},{{ post.elevation }}</item> <!-- {{ post.title }} -->
     {% endfor %}
   </string-array>
 </resources>
