@@ -9,7 +9,7 @@ default_yaw: 0
 thumbnail: planetarium_se_th.jpg
 lat: 36.814397
 lon: -119.7443032
-elevation: 102
+elevation: 104
 youtube_id: jc7aI2e8kyo
 description: SE of Downing Planetarium
 ---
