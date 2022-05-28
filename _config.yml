@@ -19,7 +19,6 @@ material_theme: red-indigo
 # Google Analytics account ID (UA-XXXXXXXX-X)
 google-analytics-ua: UA-86563829-9
 gmaps_yo: "AIzaSyBm7DK2d-zrF1zOOEyDpoMyLiUWwrAROuk"
-lon_correction: 0.00055
 main_map:
   lat: 36.814079
-  lon: -119.7459377
+  lon: -119.7442877

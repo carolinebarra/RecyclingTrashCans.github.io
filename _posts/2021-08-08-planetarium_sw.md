@@ -8,7 +8,7 @@ is_image_360: true
 default_yaw: 0
 thumbnail: planetarium_sw_th.jpg
 lat: 36.814453
-lon: -119.7450392
+lon: -119.7444892
 elevation: 102
 youtube_id: YS8HvMk5m-Y
 description: SW of Downing Planetarium
