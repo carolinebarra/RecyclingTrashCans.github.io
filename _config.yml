@@ -17,7 +17,7 @@ markdown: kramdown
 material_theme: red-indigo
 
 # Android AR Map app
-application_name: Track My Indoor Workout
+application_name: Recycling Trashcan ARMap
 app_source_repo: "https://github.com/RecyclingTrashCans/recycling-trashcan-armap"
 
 # Google Analytics account ID (UA-XXXXXXXX-X)
