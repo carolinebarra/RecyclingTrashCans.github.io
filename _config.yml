@@ -9,6 +9,7 @@ copyright: '&copy; 2021 Csaba Toth'
 # Website Links
 fresnostategeology: "https://www.fresnostate.edu/csm/ees/"
 website_source_repo: "https://github.com/RecyclingTrashCans/RecyclingTrashCans.github.io"
+website_issues: https://github.com/RecyclingTrashCans/RecyclingTrashCans.github.io/issues/
 
 # Build settings
 markdown: kramdown
@@ -19,6 +20,8 @@ material_theme: red-indigo
 # Android AR Map app
 application_name: Recycling Trashcan ARMap
 app_source_repo: "https://github.com/RecyclingTrashCans/recycling-trashcan-armap"
+app_issues: https://github.com/RecyclingTrashCans/recycling-trashcan-armap/issues/
+play_store_url: https://play.google.com/store/apps/details?id=dev.csaba.armap.recyclingtrashcans
 
 # Google Analytics account ID (UA-XXXXXXXX-X)
 google-analytics-ua: UA-86563829-9
