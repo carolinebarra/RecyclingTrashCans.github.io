@@ -8,4 +8,14 @@ layout: null
       <item>{{ post.lat }},{{ post.lon }},{{ post.elevation }}</item> <!-- {{ post.title }} -->
     {% endfor %}
   </string-array>
+  <string-array name="test_locations">
+    <item>36.862358,-119.793572,110.75</item> <!-- entrance 1 -->
+    <item>36.862463,-119.793611,110.58</item> <!-- exit -->
+    <item>36.862909,-119.793780,108.29</item> <!-- entrance 2 -->
+    <item>36.862490,-119.793228,110.57</item> <!-- office -->
+    <item>36.862388,-119.793080,110.49</item> <!-- fitness -->
+    <item>36.862404,-119.793008,110.42</item> <!-- pool -->
+    <item>36.861838,-119.793128,110.96</item> <!-- trashcan -->
+    <item>36.861642,-119.793181,110.92</item> <!-- mailboxes -->
+  </string-array>
 </resources>
