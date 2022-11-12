@@ -9,13 +9,13 @@ layout: null
     {% endfor %}
   </string-array>
   <string-array name="park_ridge">
-    <item>36.862358,-119.793572,Entrance 1</item>
-    <item>36.862463,-119.793611,Exit</item>
-    <item>36.862909,-119.793780,Entrance 2</item>
-    <item>36.862490,-119.793228,Office</item>
-    <item>36.862388,-119.793080,Fitness</item>
-    <item>36.862404,-119.793008,Pool</item>
-    <item>36.861838,-119.793128,Trashcan</item>
-    <item>36.861642,-119.793181,Mailboxes</item>
+    <item>36.862358,-119.793572,Entrance 1,{{ site.url | absolute_url }}</item>
+    <item>36.862463,-119.793611,Exit,{{ site.url | absolute_url }}</item>
+    <item>36.862909,-119.793780,Entrance 2,{{ site.url | absolute_url }}</item>
+    <item>36.862490,-119.793228,Office,{{ site.url | absolute_url }}</item>
+    <item>36.862388,-119.793080,Fitness,{{ site.url | absolute_url }}</item>
+    <item>36.862404,-119.793008,Pool,{{ site.url | absolute_url }}</item>
+    <item>36.861838,-119.793128,Trashcan,{{ site.url | absolute_url }}</item>
+    <item>36.861642,-119.793181,Mailboxes,{{ site.url | absolute_url }}</item>
   </string-array>
 </resources>
