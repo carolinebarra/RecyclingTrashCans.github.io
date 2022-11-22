@@ -5,11 +5,11 @@ Mapping recycling trashcan locations at the CSU Fresno / Fresno State campus. Pr
 
 ## Companion app accompanies website
 
-This is also a companion website to an [Augmented Reality Map application (also open source)](https://github.com/RecyclingTrashCans/recycling-trashcan-armap/), and hosts the most current set of locations whic are downloaded by the mobile app a few seconds after start. This way the locations can be updated without a new mobile app release.
+This is also a companion website to an [Augmented Reality Map application (also open source)](https://github.com/RecyclingTrashCans/recycling-trashcan-armap/), and hosts the most current set of locations which are downloaded by the mobile app a few seconds after start. This way the locations can be updated without a new mobile app release.
 
 ## Adding your own locations to the companion app
 
-Both the website and the app is capable of showing both recycling trashcan and generic locations. Please see intructions about how to add your own location [in the app's README](https://github.com/RecyclingTrashCans/recycling-trashcan-armap/blob/develop/README.md).
+Both the website and the app are capable of showing both recycling trashcan and generic locations. Please see instructions about how to add your own location [in the app's README](https://github.com/RecyclingTrashCans/recycling-trashcan-armap/blob/develop/README.md).
 
 ## Related Google Maps Platform Hackathon
 
