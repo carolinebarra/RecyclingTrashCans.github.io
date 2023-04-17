@@ -2,40 +2,29 @@
 - title: csu_fresno
   kind: builtin
   locations:
-    - title: Doors-1
-      lat: 51.498724
-      lon: -0.258519
-      url: null
-      kind: poi
     - title: Doors
-      lat: 51.498724
-      lon: -0.058519
+      lat: 51.498561
+      lon: -0.0590605
       url: null
       kind: trashcan
     - title: Stage-1
-      lat: 51.498003
-      lon: -0.05895
+      lat: 51.4978495
+      lon: -0.0594785
       url: null
       kind: poi
     - title: Stage-2
-      lat: 51.497527
-      lon: -0.057629
+      lat: 51.497753
+      lon: -0.0577336
       url: null
       kind: poi
     - title: Stage-3
-      lat: 51.498542
-      lon: -0.056434
+      lat: 51.4982866
+      lon: -0.057255
       url: null
       kind: poi
-    - title: Pool
-      lat: 36.862404
-      lon: -119.793008
-      kind: trashcan
-    - title: Trashcan
-      lat: 36.861838
-      lon: -119.793128
-      kind: trashcan
-    - title: Mailboxes
-      lat: 36.861642
-      lon: -119.793181
-      kind: trashcan
+    - title: Test
+      lat: 51.499531
+      lon: -0.0624545
+      url: null
+      kind: poi
+
