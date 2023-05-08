@@ -3,28 +3,24 @@
   kind: builtin
   locations:
     - title: Doors
-      lat: 51.498561
-      lon: -0.0590605
+      lat: 51.498724
+      lon: -0.058519
       url: null
       kind: trashcan
     - title: Stage-1
-      lat: 51.4978495
-      lon: -0.0594785
+      lat: 51.498003
+      lon: -0.05895
       url: null
       kind: poi
     - title: Stage-2
-      lat: 51.497753
-      lon: -0.0577336
+      lat: 51.497527
+      lon: -0.057629
       url: null
       kind: poi
     - title: Stage-3
-      lat: 51.4982866
-      lon: -0.057255
+      lat: 51.498542
+      lon: -0.056434
       url: null
       kind: poi
-    - title: Test
-      lat: 51.4991121
-      lon: -0.0616115
-      url: null
-      kind: poi
+
 
